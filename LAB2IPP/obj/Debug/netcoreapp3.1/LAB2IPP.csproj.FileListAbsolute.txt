@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\bin\Debug\netcoreapp3.1\LAB2IPP.exe
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\bin\Debug\netcoreapp3.1\LAB2IPP.deps.json
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\bin\Debug\netcoreapp3.1\LAB2IPP.runtimeconfig.json
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\bin\Debug\netcoreapp3.1\LAB2IPP.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\bin\Debug\netcoreapp3.1\LAB2IPP.dll
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\bin\Debug\netcoreapp3.1\LAB2IPP.pdb
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\obj\Debug\netcoreapp3.1\LAB2IPP.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\obj\Debug\netcoreapp3.1\LAB2IPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\obj\Debug\netcoreapp3.1\LAB2IPP.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\obj\Debug\netcoreapp3.1\LAB2IPP.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\obj\Debug\netcoreapp3.1\LAB2IPP.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\obj\Debug\netcoreapp3.1\LAB2IPP.dll
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\obj\Debug\netcoreapp3.1\LAB2IPP.pdb
+C:\Users\Пользователь\source\repos\LAB2IPP\LAB2IPP\obj\Debug\netcoreapp3.1\LAB2IPP.genruntimeconfig.cache
